@@ -1,0 +1,103 @@
+/*h1{
+    background-color: palegoldenrod;
+    border: 1px solid black;
+    display: inline;
+}
+span{
+    background-color: paleturquoise;
+    border: 1px solid black;
+    display: block;
+}
+span{
+    background-color: palevioletred;
+    border: 1px solid black;
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color: olivedrab;
+    border: 5px solid black;
+    display: inline-block;
+    margin: 50px;
+}*/
+section{
+    background-color: #6d6875;
+    width: 800px;
+    height: 800px;
+}
+div{
+    background-color: #e5989b;
+    height: 50%;
+    width: 50%;
+}
+h1{
+    font-size: 40px;
+    border: 1px solid black;
+    line-height: 200%;
+}
+h2{
+    font-size: 2em;
+    margin-left: 1em;
+
+}
+article{
+    font-size: 15px;
+}
+p{
+    font-size: 1em;
+}
+h3{
+    font-size: 1.5em;
+}
+button{
+    font-size: 1em;
+    padding: 0 1em;
+    border-radius: 0.5em;
+    background-color: aqua;
+    color: white;
+}
+ul{
+    font-size: 0.7em;
+}
+html{
+    font-size: 10px;
+}
+#percentages div{
+    background-color: #e5989b;
+    width: 70%;
+    height: 20%;
+}
+#ems h2{
+    font-size: 2em;
+    margin-left: 1em;
+
+}
+#ems h3{
+    font-size: 1.5em;
+}
+#ems p{
+    font-size: 1em;
+}
+#rems h2{
+    font-size: 3rem;
+
+}
+#rems h3{
+    font-size: 2rem;
+}
+#rems ul{
+    font-size: 0.8rem;
+}
+#rems button{
+    font-size: 1.5rem;
+}
+/*img{
+    width: 30%;
+    margin: calc(10%/6);
+}
+nav{
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    margin-left: calc(10%/6);
+}*/
